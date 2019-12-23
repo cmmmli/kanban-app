@@ -1,5 +1,9 @@
 # kanban-app
 
+書籍『Vue.js入門 基礎から実践アプリケーション開発まで』の後半、実際にアプリケーションを作る部分の写経です。
+書籍では`vue init`コマンドを用いて環境を用意していましたが、用いるmoduleのバージョンを上げて挑戦するために`vue create`コマンドを用いてやり直しました。
+[kanban-app2](https://github.com/cmmmli/kanban-app2)
+
 > A Kanban Application
 
 ## Build Setup
